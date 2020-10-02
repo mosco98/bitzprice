@@ -1,0 +1,19 @@
+{
+  "name": "bitzprice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": "https://github.com/mosco98/bitzprice.git",
+  "author": "mosco98 <moscolyno98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
